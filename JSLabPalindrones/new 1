@@ -1,0 +1,7 @@
+let input = prompt("Enter a phrase:");
+
+console.log(isPalindrome(input));
+
+function isPalindrome(phrase) {
+    ...
+}
